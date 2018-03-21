@@ -17,7 +17,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "rxjs": "^5.5.7"
+    "rxjs": "^5.6.0-forward-compat.0"
   },
   "devDependencies": {
     "npm-run-all": "^4.1.2",
